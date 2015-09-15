@@ -9,3 +9,5 @@
 *Subset R objects using the "[", "[[", and "$" operators and logical vectors
 *Describe the explicit coercion feature of R
 *Remove missing (NA) values from a vector
+
+*swirl package
